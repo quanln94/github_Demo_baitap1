@@ -1,0 +1,6 @@
+git checkout -b f1_LeNgocQuan
+type nul > t1.txt
+type null >rs.txt
+git add .
+git remote set-url origin https://github.com/quanln94/github_Demo_baitap1.git
+git push --set-upstream origin f1_LeNgocQuan
